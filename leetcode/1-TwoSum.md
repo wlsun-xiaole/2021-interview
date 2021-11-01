@@ -1,4 +1,4 @@
-# (\#1 Two Sum)[https://leetcode.com/problems/two-sum/]
+# [\#1 Two Sum](https://leetcode.com/problems/two-sum/)
 給一個整數陣列 nums 和一整數之目標數 target，回傳一個包含兩個索引值的陣列，使兩索引值所對應之數字和等於 target。
 可以假設每組輸入只會有一個解，且索引值的順序不限。
 
